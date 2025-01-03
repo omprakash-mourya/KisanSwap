@@ -506,3 +506,5 @@ The app follows **Clean Architecture**, with three main layers:
 3. **Data Layer**:
     - Communicates with Firebase Firestore for CRUD operations(repository).
 
+# KisanSwap
+A marketplace and contact point for all the farmers to exchange goods and services.
