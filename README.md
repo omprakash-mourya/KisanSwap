@@ -1,5 +1,5 @@
 # Kisan Swap
-**KisanSwap** is a marketplace app designed for farmers to buy and sell second-hand agricultural equipment. The app is built with a user-friendly interface, focusing on Hindi-speaking users and those with limited literacy.
+**KisanSwap** is a marketplace app designed to help farmers in India buy and sell second-hand agricultural equipment like motors, pumps, tractors, threshers, cables, transformers, and more. The platform caters to Hindi-speaking farmers, focusing on a simple, user-friendly interface for those with low literacy levels. With a focus on accessibility and ease of use, KisanSwap aims to make buying and selling farm equipment seamless and convenient.
 
 ## Features
 ### Second hand Seller Features:
