@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">KisanSwap</string>
-    <string name="default_web_client_id">953705898143-p29u0mp4813nfbcqvdaa2m8q1kt9i0mv.apps.googleusercontent.com</string>
+    <string name="default_web_client_id">client-id-here</string>
 </resources>
